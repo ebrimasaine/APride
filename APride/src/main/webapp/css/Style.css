@@ -1,0 +1,57 @@
+@CHARSET "ISO-8859-1";
+
+.navbar{
+	background-color: #ff0080;
+	
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-brand{
+	color: white ! important;
+	margin-left: 0px ! important;
+}
+
+.search_text_field{
+   width: 500px ! important;
+}
+#cart-user{
+    font-size: 1.5em;
+    float: right;
+}
+ span.glyphicon-shopping-cart{
+    font-size: 1.8em;
+    float: left;
+   }
+
+
+.btn-info:hover, 
+.btn-info:focus, 
+.btn-info:active, 
+.open > .dropdown-toggle.btn-info {
+	color: #ff0080;
+	background: white;
+}
+#top-header,#battom-header{
+	height: 50px;
+	margin-top: 0px;
+
+	
+}
+#searchRow,#navRow{
+	height: 40px;
+	
+	display: inline-block;
+}
+
+
+/* #header{
+	background-color: #ff0080;
+    color: white;
+}
+
+ul>li>a{
+	text-color: white;
+	background: #ff0080;
+} */
